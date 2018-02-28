@@ -1,0 +1,4 @@
+Nombre de base de datos: taquilla_boletos
+
+Usuario: admin
+password: admin
